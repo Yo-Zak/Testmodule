@@ -26,5 +26,30 @@
                 "versions": ["1.8.0.191.b12-0", "1.8.0.181-3.b13", "1.8.0.171-8.b10", "1.8.0.161-2.b14"]
             }
         ]
+    },
+    {
+        "name": "last_review_date",
+        "description": "date of last module review",
+        "value":  "2018-10-25"
+    },
+    {
+        "name": "is_deprecated",
+        "description": "Denoted whether the module can be used for new deployments",
+        "value": false
+    },
+    {
+        "name": "is_orderable",
+        "description": "Property unknown to MC: is the product orderable?",
+        "value": true
+    },
+    {
+        "name": "is_tested",
+        "description": "Property unknown to MC: is the product orderable?",
+        "value": true
+    },
+    {
+        "name": "stacks",
+        "description": "Property unknown to MC: list of stacks this module is part of",
+        "value": [ "tomcat", "jboss", "webshpere" ]
     }
 ]
