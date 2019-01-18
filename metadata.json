@@ -1,5 +1,6 @@
 {
- "name":"Testmodule", 
+ "name":"Testmodule7", 
+ "version": "3.2.0",
  "summary": "Installs the correct Java package on various platforms.",
- 
+ "tags": [ "java", "jre", "jdk", "j2re", "j2dk", "java8", "jvm", "sunjava", "oraclejava" ],
 }
