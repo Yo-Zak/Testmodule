@@ -12,5 +12,5 @@
         "name": "capabilities",
         "description": "upgrade, downgrade, install, uninstall",
         "value": [ "upgrade", "install", "start-service" ]
-    },
+    }
 ]
