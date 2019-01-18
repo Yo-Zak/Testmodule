@@ -7,5 +7,10 @@
             "email": "vnoel@wf.com",
             "team_link": "https://www.google.com.ua/"
         }
-    }
+    },
+    {
+        "name": "capabilities",
+        "description": "upgrade, downgrade, install, uninstall",
+        "value": [ "upgrade", "install", "start-service" ]
+    },
 ]
