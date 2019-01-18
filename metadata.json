@@ -1,3 +1,5 @@
 {
  "name":"Testmodule", 
+ "summary": "Installs the correct Java package on various platforms.",
+ 
 }
