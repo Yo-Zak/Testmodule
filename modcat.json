@@ -1,1 +1,11 @@
-
+[
+    {
+        "name": "product_owner",
+        "description": "product owner",
+        "value": {
+            "full_name": "Vincent Noel",
+            "email": "vnoel@wf.com",
+            "team_link": null
+        }
+    }
+]
