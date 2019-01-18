@@ -12,5 +12,19 @@
         "name": "capabilities",
         "description": "upgrade, downgrade, install, uninstall",
         "value": [ "upgrade", "install", "start-service" ]
+    },
+    {
+        "name": "product_versions",
+        "description": "supported product versions",
+        "value": [
+            {
+                "operating_system": "windowsTen",
+                "versions": ["8u1917", "8u1817", "8u1717"]
+            },
+            {
+                "operating_system": "RedHat",
+                "versions": ["1.8.0.191.b12-0", "1.8.0.181-3.b13", "1.8.0.171-8.b10", "1.8.0.161-2.b14"]
+            }
+        ]
     }
 ]
